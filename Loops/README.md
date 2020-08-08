@@ -19,7 +19,7 @@ To generate a number from 1-100 you will need the following code at the beginnin
     from random import randint
     randomNum = randint(1,100)
 
-4. Extra Credit - 5 possible points - Write a program that generates the multiplication table for numbers 1-10. Use two for loops to complete your program. You will need to put one for loop inside of the other for loop. As an extra challenge, see if you can get the indention to look correct. So the output of your program should be:
+4. Write a program that generates the multiplication table for numbers 1-10. Use two for loops to complete your program. You will need to put one for loop inside of the other for loop. As an extra challenge, see if you can get the indention to look correct. So the output of your program should be:
 
     1  2  3  4  5  6  7  8  9
     2  4  6  8 10 12 14 16 18
@@ -31,3 +31,5 @@ To generate a number from 1-100 you will need the following code at the beginnin
     8 16 24 32 40 48 56 64 72
     9 18 27 36 45 54 63 72 81
 
+### Comments
+This was a assignment I had to create for my CMIT-135 class at Champlain College.
