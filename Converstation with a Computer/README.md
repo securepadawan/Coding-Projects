@@ -1,4 +1,4 @@
-# Week 2: Assignment - Conversation with a Computer
+# Conversation with a Computer
 
 Write a program that has a conversation with the user. The program must ask for both strings and numbers as input. The program must ask for at least 4 different inputs from the user. The program must reuse at least 3 inputs in what it displays on the screen. The program must perform some form of arithmetic operation on the numbers the user inputs.
 
